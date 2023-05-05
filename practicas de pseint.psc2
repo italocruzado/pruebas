@@ -1,0 +1,9 @@
+Algoritmo Escribir_nombre
+	Escribir "programa para saludar";
+	Escribir "escribe tu nombre" ;
+	Leer a;
+	Escribir "hola! Tu nombre es : ", " ****", a, "****";
+	
+	
+	
+FinAlgoritmo
